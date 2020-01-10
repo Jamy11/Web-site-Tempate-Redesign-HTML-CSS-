@@ -1,0 +1,74 @@
+*{
+    margin:0;
+    padding:0;
+}
+#advice
+{
+    margin-top: 50px;
+    font-size: 30px;
+    font-family: 'Josefin Sans', sans-serif;
+    padding-bottom: 20px;
+}
+.ourad
+{
+	display: inline-block;
+	width: 100%;
+}
+.adeee
+{
+	display: inline;
+font-family: 'Josefin Sans', sans-serif;
+float: left;
+
+width: 30%;
+
+padding-left: 300px;
+
+padding-right: 100px;
+}
+.adeee img
+{
+	width: 250px;
+}
+.adeee p
+{
+	width: 80%;
+}
+.adcse
+{
+	display: block;
+    width: 30%;
+    font-family: 'Josefin Sans', sans-serif;
+    margin-left: 500px;
+}
+.adcse img
+{
+	width: 250px;
+}
+.adcse p
+{
+	width: 80%;
+}
+
+#advice2
+{
+    margin-top: 50px;
+    font-size: 30px;
+    font-family: 'Josefin Sans', sans-serif;
+    padding-bottom: 20px;
+}
+.adcse2
+{
+	display: block;
+    width: 30%;
+    font-family: 'Josefin Sans', sans-serif;
+    margin-left: 500px;
+}
+.adcse2 img
+{
+	width: 250px;
+}
+.adcse2 p
+{
+	width: 80%;
+}

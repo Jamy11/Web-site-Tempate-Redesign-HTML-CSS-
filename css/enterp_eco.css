@@ -1,0 +1,76 @@
+.entp{
+	text-align: center;
+	color: black;
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+.entp img
+{
+	width: 350px;
+
+height: 250px;
+
+float: left;
+
+border-radius: 200px;
+
+margin-left: 50px;
+
+margin-right: 30px;
+margin-top: 40px;
+
+}
+.entp h1
+{
+	font-size: 40px;
+    text-align: center;
+    padding-right: 190px;
+    padding-top: 10px;
+}
+
+.entp p
+{
+    text-align: justify;
+    font-size: 15px;
+    padding-right: 40px;
+}
+.entp2{
+	text-align: center;
+	color: black;
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+.entp2 img
+{
+width: 400px;
+
+height: 300px;
+
+float: right;
+
+border-radius: 200px;
+
+margin-left: 50px;
+
+margin-right: 30px;
+
+margin-top: 60px;
+}
+.entp2 h1
+{
+	width: 350px;
+    /* height: 250px; */
+    float: left;
+    /* border-radius: 200px; */
+    margin-left: 50px;
+    margin-right: 30px;
+    margin-top: 40px;
+    text-align: justify;
+    font-size: 40px;
+}
+.entp2 p
+{
+	text-align: justify;
+    font-size: 15px;
+    margin-left: 30px;
+}
